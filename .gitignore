@@ -1,0 +1,15 @@
+# Ignore everything except .cpp source files
+*
+!*/
+!*.cpp
+!.gitignore
+
+# Editor / IDE configs
+.vscode/
+.idea/
+.vs/
+.cursor/
+*.code-workspace
+*.swp
+*~
+.DS_Store
